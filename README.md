@@ -9,4 +9,7 @@ Some tutorials
 [(1) H2O](http://learn.h2o.ai/content/tutorials/deeplearning/) 
 
 [(2) H2O](https://h2o-release.s3.amazonaws.com/h2o/rel-slater/9/docs-website/h2o-docs/booklets/DeepLearning_Vignette.pdf)
+
 [(3) ParalleR](http://www.parallelr.com/r-deep-neural-network-from-scratch/)
+
+[(4) Darch](https://www.packtpub.com/books/content/deep-learning-r)
