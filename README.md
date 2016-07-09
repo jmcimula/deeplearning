@@ -13,3 +13,7 @@ Some tutorials
 [(3) ParalleR](http://www.parallelr.com/r-deep-neural-network-from-scratch/)
 
 [(4) Darch](https://www.packtpub.com/books/content/deep-learning-r)
+
+[(5) RevolutionAnalytics ](http://blog.revolutionanalytics.com/2014/06/deep-learning-at-stanford.html)
+
+[(6) Tutorial](http://deeplearning.net/tutorial/)
