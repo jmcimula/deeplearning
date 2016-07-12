@@ -17,3 +17,5 @@ Some tutorials
 [(5) RevolutionAnalytics ](http://blog.revolutionanalytics.com/2014/06/deep-learning-at-stanford.html)
 
 [(6) Tutorial](http://deeplearning.net/tutorial/)
+
+[(7) The Mathematician behind Data Scientist ](http://blog.paralleldots.com/technology/mathematician-behind-data-scientist/?utm_content=bufferddaea&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
